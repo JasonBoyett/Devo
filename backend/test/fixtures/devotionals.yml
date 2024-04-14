@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  body: MyText
+  is_markdown: false
+  is_publuic: false
+  template: MyString
+  user: 1
+
+two:
+  title: MyString
+  body: MyText
+  is_markdown: true
+  is_publuic: true
+  template: MyString
+  user: 2
