@@ -75,7 +75,6 @@ ActiveRecord::Schema[7.1].define(version: 2024_04_12_110038) do
     t.string "nickname"
     t.string "favorite_verse"
     t.string "email"
-    t.string "phone"
   end
 
   add_foreign_key "comment_impressions", "comments"

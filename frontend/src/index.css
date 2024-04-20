@@ -1,3 +1,13 @@
+@import url("non.geist");
+@import url("non.geist/mono");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "Geist Variable";
+}
+
+/* .text-geist-mono { */
+/*   font-family: "Geist Mono Variable"; */
+/* } */
